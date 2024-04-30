@@ -46,8 +46,11 @@ const About = () => {
 								</div>
 
 								<div className="subtitle about-subtitle">
-									{INFO.about.description}
+								{INFO.about.description.split('<br>').map((paragraph, index) => (
+									<p key={index}>{paragraph}</p>
+								))}
 								</div>
+
 							</div>
 
 							<div className="about-left-side">
@@ -59,10 +62,6 @@ const About = () => {
 											className="about-image"
 										/>
 									</div>
-								</div>
-
-								<div className="about-socials">
-									<Socials />
 								</div>
 							</div>
 						</div>

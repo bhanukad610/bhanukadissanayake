@@ -1,30 +1,29 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Bhanuka Dissanayake",
+		name: "Bhanuka Dissanayake",
+		email: "bhanuka.m.dissanayake@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/bhanukad610",
+		linkedin: "https://www.linkedin.com/in/bhanuka-dissanayake/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Hey! I'm Bhanuka",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
-		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		title: "I’m Bhanuka. Software Engineer with 3 years of Experience",
+		description: "I’m a Software Development Engineer with more than 3 years of professional experience in diverse domains such as retail, e-commerce, sports, and HRM across various technology stacks. <br><br>During my Software Engineering career, I have worked with multiple programming languages, libraries, frameworks, and technologies such as C#, .NET core, Python, Django, Java, React, and AWS. My ability to swiftly learn and adapt to any technology allows me to stay at the forefront of evolving tech stacks. <br><br>I hold a BSc (Hons) in Computer Science & Engineering from the University of Moratuwa, Sri Lanka. My academic journey included research/thesis work, resulting in a conference paper presentation at the 28th Conference of The Open Innovations Association FRUCT. <br><br>In my recent role, I have been instrumental in the product development of version 1.0 of a Resource Management Portal, showcasing my expertise as a .Net developer. <br><br>Notable achievements in my career include contributing to the success of one of the Nordics' leading e-commerce platforms with an annual net sale of SEK 1.3 billion. Played an important role in version upgrades of the Stanford Graduate School of Business eLearning platform which is used by 50 other business schools, nearly 800 global universities, Fortune 500 companies, government agencies and the US military. <br><br>Experienced in researching, designing, developing, troubleshooting, and maintaining software solutions, with a strong aptitude for tackling complex problems. Well-versed in agile and Kanban methodologies, contributing to efficient project management and successful delivery as a valuable team member. <br><br>With valid work rights in Australia, I am eager to advance my career and contribute my knowledge and expertise to crafting impactful software solutions."
 	},
 
 	articles: {
@@ -44,10 +43,10 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "Nelly.com",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			logo: "https://media.nelly.com/i/nlyscandinavia/nelly_logotype_black_utancom_2?fmt=webp&h=120&w=200",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
